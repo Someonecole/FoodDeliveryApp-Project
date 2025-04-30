@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\11a \u211620\\FastFoodDeliveryProject\\FoodDeliveryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F35336-4AD0-4090-8C9A-9FDC499B3EF1}|FoodDeliveryApp\\FoodDeliveryApp.csproj|c:\\users\\user\\desktop\\11a \u211620\\fastfooddeliveryproject\\fooddeliveryapp\\fooddeliveryapp\\migrations\\20250320064336_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F35336-4AD0-4090-8C9A-9FDC499B3EF1}|FoodDeliveryApp\\FoodDeliveryApp.csproj|solutionrelative:fooddeliveryapp\\migrations\\20250320064336_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F35336-4AD0-4090-8C9A-9FDC499B3EF1}|FoodDeliveryApp\\FoodDeliveryApp.csproj|c:\\users\\user\\desktop\\11a \u211620\\fastfooddeliveryproject\\fooddeliveryapp\\fooddeliveryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F35336-4AD0-4090-8C9A-9FDC499B3EF1}|FoodDeliveryApp\\FoodDeliveryApp.csproj|solutionrelative:fooddeliveryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250320064336_Mig1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\11a \u211620\\FastFoodDeliveryProject\\FoodDeliveryApp\\FoodDeliveryApp\\Migrations\\20250320064336_Mig1.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApp\\Migrations\\20250320064336_Mig1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\11a \u211620\\FastFoodDeliveryProject\\FoodDeliveryApp\\FoodDeliveryApp\\Migrations\\20250320064336_Mig1.cs",
+              "RelativeToolTip": "FoodDeliveryApp\\Migrations\\20250320064336_Mig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:31:17.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\11a \u211620\\FastFoodDeliveryProject\\FoodDeliveryApp\\FoodDeliveryApp\\Program.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\11a \u211620\\FastFoodDeliveryProject\\FoodDeliveryApp\\FoodDeliveryApp\\Program.cs",
+              "RelativeToolTip": "FoodDeliveryApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:23:43.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
