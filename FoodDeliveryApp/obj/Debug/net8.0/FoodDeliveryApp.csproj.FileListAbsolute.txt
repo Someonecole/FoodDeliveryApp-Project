@@ -506,3 +506,4 @@ C:/Users/User/Desktop/11a №20/FastFoodDeliveryProject/FoodDeliveryApp/FoodDeli
 /Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/obj/Debug/net8.0/FoodDeliveryApp.pdb
 /Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/obj/Debug/net8.0/FoodDeliveryApp.genruntimeconfig.cache
 /Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/obj/Debug/net8.0/ref/FoodDeliveryApp.dll
+/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/obj/Debug/net8.0/FoodDeliveryApp.sourcelink.json
