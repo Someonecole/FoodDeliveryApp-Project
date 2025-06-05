@@ -17,75 +17,75 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FoodDeliveryApp
 build_property.RootNamespace = FoodDeliveryApp
-build_property.ProjectDir = /Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/
+build_property.ProjectDir = /Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp
+build_property.MSBuildProjectDirectory = /Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/Admin/Orders.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/Admin/Orders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vT3JkZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/Admin/Products.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/Admin/Products.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUHJvZHVjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/AdminAccount/Login.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/AdminAccount/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5BY2NvdW50L0xvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/Customer/MyOrders.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/Customer/MyOrders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvTXlPcmRlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/Customer/PlaceOrder.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/Customer/PlaceOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvUGxhY2VPcmRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/CustomerAccount/Login.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/CustomerAccount/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJBY2NvdW50L0xvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/CustomerAccount/Register.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/CustomerAccount/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJBY2NvdW50L1JlZ2lzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/Home/Index.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/Home/Privacy.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/Shared/Error.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/Shared/_AdminLayout.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/Shared/_CustomerLayout.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/Shared/_CustomerLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19DdXN0b21lckxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/_ViewImports.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/_ViewStart.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/Views/Shared/_Layout.cshtml]
+[/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7kj8ghedti

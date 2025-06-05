@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/FoodDeliveryApp.csproj": {}
+    "/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/FoodDeliveryApp.csproj": {}
   },
   "projects": {
-    "/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/FoodDeliveryApp.csproj": {
+    "/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/FoodDeliveryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/FoodDeliveryApp.csproj",
+        "projectUniqueName": "/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/FoodDeliveryApp.csproj",
         "projectName": "FoodDeliveryApp",
-        "projectPath": "/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/FoodDeliveryApp.csproj",
+        "projectPath": "/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/FoodDeliveryApp.csproj",
         "packagesPath": "/Users/SvetObu/.nuget/packages/",
-        "outputPath": "/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/obj/",
+        "outputPath": "/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/SvetObu/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iz2gEGoGouv01dUFkx6MGEFWyl+P5CijT2iM/yge4djf2r3ocRwEqinD3zkqQlXqJWh5xEjKMz4AMDvIJi2XzA==",
+  "dgSpecHash": "Z6euOOqgJY2J5JLa+RLY9bGMGfBTxQxiaP1FP7q9v0nwt+paHd9B2mO9j1PtqsyGDVENGDD6ckUGVsrdwuD5sA==",
   "success": true,
-  "projectFilePath": "/Users/SvetObu/Downloads/FoodDeliveryApp 2/FoodDeliveryApp/FoodDeliveryApp.csproj",
+  "projectFilePath": "/Users/SvetObu/FoodDelivery/FoodDeliveryApp-Project/FoodDeliveryApp/FoodDeliveryApp.csproj",
   "expectedPackageFiles": [
     "/Users/SvetObu/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/SvetObu/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
